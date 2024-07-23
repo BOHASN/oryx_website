@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gradient-bg {
+    background: linear-gradient(to left, #8da1af, #2c586e);
+  }
+
+.gradient-bg1 {
+    background: linear-gradient(to right, #8da1af, #2c586e);
+  }
+
+.bgbutton{
+  background: rgba(190, 208, 219, 0.33);
+}
+.backgroundbox1{
+ background: #8da1af;
+}
+
+.backgroundbox2{
+  background:  #2c586e;
+ }
+
+ .bgtext1{
+  color: #8da1af;
+ }
+
+ .bgtext2{
+  color: #2C586E;
+ }
+
+ .letterspacing{
+  letter-spacing: 5px;
+ }
+
+ .letterspacing1{
+  letter-spacing: 2px;
+ }
+
+ .letterspacing2{
+  letter-spacing: 4px;
+ }
+
+ .videobackground{
+  background: rgba(190, 208, 219, 0.33);
+}
